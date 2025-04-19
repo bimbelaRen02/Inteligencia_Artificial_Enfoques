@@ -1,5 +1,4 @@
-"""Planificación (1):
-Búsqueda No Informada
+"""Planificación (1): Búsqueda No Informada - Búsqueda en Anchura.
 La Búsqueda en Anchura (Breadth-First Search, BFS) es un algoritmo de búsqueda no informada
 que explora primero los nodos más cercanos al nodo inicial antes de ir más profundo. Se
 implementa típicamente usando una cola FIFO."""
